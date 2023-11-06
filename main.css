@@ -1,0 +1,365 @@
+@import url('https://fonts.cdnfonts.com/css/pixelsix');
+body {
+    background:lightskyblue;
+    font-family: 'PixelSix10', sans-serif;
+}
+
+p {
+    font-size: 15px;
+}
+
+h1{
+    text-align: center;
+}
+
+.box1 {
+    width: 150px;
+    height: 150px;
+    border:black solid;
+    border-radius: 2px;
+    background: gray;
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    transform: translate(-35%, -25%);
+}
+
+.box1 .image1 img{
+    width: 150px;
+    height: 100px;
+}
+
+.box1 .name1 {
+    width: 150px;
+    height: 50px;
+    border:black solid;
+    background-color: white;
+    position: absolute;
+    top: 101%;
+    transform: translate(-2%, -100%);
+}
+
+.box1 .name1 p{
+    text-align: center;
+    color: black;
+}
+
+.box2 {
+    width: 150px;
+    height: 150px;
+    border:black solid;
+    border-radius: 2px;
+    background: gray;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -25%);
+}
+
+.box2 .image2 img{
+    width: 150px;
+    height: 100px;
+}
+
+.box2 .name2 {
+    width: 150px;
+    height: 50px;
+    border:black solid;
+    background-color: white;
+    position: absolute;
+    top: 101%;
+    transform: translate(-2%, -100%);
+}
+
+.box2 .name2 p{
+    text-align: center;
+    color: black;
+}
+
+.box3 {
+    width: 150px;
+    height: 150px;
+    border:black solid;
+    border-radius: 2px;
+    background: gray;
+    position: absolute;
+    top: 25%;
+    left: 65%;
+    transform: translate(-65%, -25%);
+}
+
+.box3 .image3 img{
+    width: 150px;
+    height: 100px;
+}
+
+.box3 .name3 {
+    width: 150px;
+    height: 50px;
+    border:black solid;
+    background-color: white;
+    position: absolute;
+    top: 101%;
+    transform: translate(-2%, -100%);
+}
+
+.box3 .name3 p{
+    text-align: center;
+    color: black;
+}
+
+.box4 {
+    width: 150px;
+    height: 150px;
+    border:black solid;
+    border-radius: 2px;
+    background: gray;
+    position: absolute;
+    top: 65%;
+    left: 35%;
+    transform: translate(-35%, -65%);
+}
+
+.box4 .image4 img{
+    width: 150px;
+    height: 100px;
+}
+
+.box4 .name4 {
+    width: 150px;
+    height: 50px;
+    border:black solid;
+    background-color: white;
+    position: absolute;
+    top: 101%;
+    transform: translate(-2%, -100%);
+}
+
+.box4 .name4 p{
+    text-align: center;
+    color: black;
+}
+
+.box5 {
+    width: 150px;
+    height: 150px;
+    border:black solid;
+    border-radius: 2px;
+    background: gray;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -65%);
+}
+
+.box5 .image5 img{
+    width: 150px;
+    height: 100px;
+}
+
+.box5 .name5 {
+    width: 150px;
+    height: 50px;
+    border:black solid;
+    background-color: white;
+    position: absolute;
+    top: 101%;
+    transform: translate(-2%, -100%);
+}
+
+.box5 .name5 p{
+    text-align: center;
+    color: black;
+}
+
+.box6 {
+    width: 150px;
+    height: 150px;
+    border:black solid;
+    border-radius: 2px;
+    background: gray;
+    position: absolute;
+    top: 65%;
+    left: 65%;
+    transform: translate(-65%, -65%);
+}
+
+.box6 .image6 img{
+    width: 150px;
+    height: 100px;
+}
+
+.box6 .name6 {
+    width: 150px;
+    height: 50px;
+    border:black solid;
+    background-color: white;
+    position: absolute;
+    top: 101%;
+    transform: translate(-2%, -100%);
+}
+
+.box6 .name6 p{
+    text-align: center;
+    color: black;
+}
+
+.box7 {
+    width: 150px;
+    height: 150px;
+    border:black solid;
+    border-radius: 2px;
+    background: gray;
+    position: absolute;
+    top: 105%;
+    left: 35%;
+    transform: translate(-35%, -105%);
+}
+
+.box7 .image7 img{
+    width: 150px;
+    height: 100px;
+}
+
+.box7 .name7 {
+    width: 150px;
+    height: 50px;
+    border:black solid;
+    background-color: white;
+    position: absolute;
+    top: 101%;
+    transform: translate(-2%, -100%);
+}
+
+.box7 .name7 p{
+    text-align: center;
+    color: black;
+}
+
+.box8 {
+    width: 150px;
+    height: 150px;
+    border:black solid;
+    border-radius: 2px;
+    background: gray;
+    position: absolute;
+    top: 105%;
+    left: 50%;
+    transform: translate(-50%, -105%);
+}
+
+.box8 .image8 img{
+    width: 150px;
+    height: 100px;
+}
+
+.box8 .name8 {
+    width: 150px;
+    height: 50px;
+    border:black solid;
+    background-color: white;
+    position: absolute;
+    top: 101%;
+    transform: translate(-2%, -100%);
+}
+
+.box8 .name8 p{
+    text-align: center;
+    color: black;
+}
+
+.box9 {
+    width: 150px;
+    height: 150px;
+    border:black solid;
+    border-radius: 2px;
+    background: gray;
+    position: absolute;
+    top: 105%;
+    left: 65%;
+    transform: translate(-65%, -105%);
+}
+
+.box9 .image9 img{
+    width: 150px;
+    height: 100px;
+}
+
+.box9 .name9 {
+    width: 150px;
+    height: 50px;
+    border:black solid;
+    background-color: white;
+    position: absolute;
+    top: 101%;
+    transform: translate(-2%, -100%);
+}
+
+.box9 .name9 p{
+    text-align: center;
+    color: black;
+}
+
+.box10 {
+    width: 150px;
+    height: 150px;
+    border:black solid;
+    border-radius: 2px;
+    background: gray;
+    position: absolute;
+    top: 145%;
+    left: 35%;
+    transform: translate(-35%, -145%);
+}
+
+.box10 .image10 img{
+    width: 150px;
+    height: 100px;
+}
+
+.box10 .name10 {
+    width: 150px;
+    height: 50px;
+    border:black solid;
+    background-color: white;
+    position: absolute;
+    top: 101%;
+    transform: translate(-2%, -100%);
+}
+
+.box10 .name10 p{
+    text-align: center;
+    color: black;
+}
+
+.box11 {
+    width: 150px;
+    height: 150px;
+    border:black solid;
+    border-radius: 2px;
+    background: gray;
+    position: absolute;
+    top: 145%;
+    left: 50%;
+    transform: translate(-50%, -145%);
+}
+
+.box11 .image11 img{
+    width: 150px;
+    height: 100px;
+}
+
+.box11 .name11 {
+    width: 150px;
+    height: 50px;
+    border:black solid;
+    background-color: white;
+    position: absolute;
+    top: 101%;
+    transform: translate(-2%, -100%);
+}
+
+.box11 .name11 p{
+    text-align: center;
+    color: black;
+}

@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+.text {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -35%);
+}
+
+#word {
+    position: absolute;
+    top: 50%;
+    left: 47%;
+    transform: translate(-47%, -50%);
+    height: 30px;
+}
+
+#enter {
+    position: absolute;
+    top: 50%;
+    left: 57%;
+    transform: translate(-57%, -50%);
+    height: 35px;
+    width: 50px;
+}
